@@ -1,5 +1,7 @@
 # open-file package
 
+## This package is still under development!
+
 An Atom package that allows users to open files in their respective default
 app.
 
