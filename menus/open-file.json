@@ -1,0 +1,32 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open File",
+        "command": "open-file:open"
+      }
+    ],
+    ".tree-view .file": [
+      {
+        "label": "Open File",
+        "command": "open-file:open"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "open-file",
+          "submenu": [
+            {
+              "label": "Open File",
+              "command": "open-file:open"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

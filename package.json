@@ -1,0 +1,18 @@
+{
+  "name": "open-file",
+  "main": "./lib/open-file",
+  "version": "1.0.0",
+  "description": "An Atom package that allows users to open files in their respective default app.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "open-file:open"
+  },
+  "repository": "https://github.com/atom/open-file",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "opn": "^5.0.0"
+  }
+}
