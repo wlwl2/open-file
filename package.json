@@ -1,7 +1,7 @@
 {
   "name": "open-file",
   "main": "./lib/open-file",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "An Atom package that allows users to open files in their respective default app.",
   "keywords": [],
   "activationCommands": {
