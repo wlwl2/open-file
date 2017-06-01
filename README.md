@@ -1,10 +1,20 @@
 # open-file package
 
-## This package is still under development!
-
 An Atom package that allows users to open files in their respective default
 app.
 
-https://www.npmjs.com/package/opn
+1. Press *alt-w* to open the currently open file in its default application.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+2. Right-click an item in the tree view (or open the context menu on an item
+in the tree view) and select Open File to open the currently open file in its
+default application.
+
+3. Right-click an item in the text editor (or open the context menu
+on an open editor) and select Open File to open the currently open file in
+its default application.
+
+The default keymap for this package (alt-w) conflicts with my view-in-browser
+package. I will improve this later.
+
+For references/attribution, see the licenses provided in the node packages
+installed.
