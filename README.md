@@ -18,3 +18,5 @@ package. I will improve this later.
 
 For references/attribution, see the licenses provided in the node packages
 installed.
+
+https://atom.io/packages/open-file
