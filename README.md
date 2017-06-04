@@ -17,6 +17,9 @@ The default keymap for this package (alt-w) conflicts with my view-in-browser
 package and might conflict with other packages. You can disable this by
 clicking on this package in Settings > Manage Packages.
 
+On the Mac the alt-w command works, but files with no default
+application are not opened/nothing happens.
+
 For references/attribution, see the licenses provided in the node packages
 installed.
 
